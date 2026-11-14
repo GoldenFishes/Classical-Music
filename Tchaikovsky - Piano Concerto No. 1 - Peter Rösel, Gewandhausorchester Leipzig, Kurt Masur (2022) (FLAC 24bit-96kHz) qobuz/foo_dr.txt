@@ -1,0 +1,23 @@
+foobar2000 v2.24.6 / DR Meter v1.0.1
+log date: 2025-07-26 10:15:23
+
+--------------------------------------------------------------------------------
+Analyzed: Peter Rösel, Gewandhausorchester Leipzig & Kurt Masur / Tschaikowski: Klavierkonzert No. 1
+--------------------------------------------------------------------------------
+
+DR         Peak           RMS       Duration Track
+--------------------------------------------------------------------------------
+DR14      -2.73 dBFS   -22.04 dBFS     21:13 01-Piano Concerto No. 1 in B-Flat Minor, Op. 23: I. Allegro non troppo e molto maestoso - Allegro con spirito (Remastered)
+DR13      -3.24 dBFS   -29.32 dBFS      7:45 02-Piano Concerto No. 1 in B-Flat Minor, Op. 23: II. Andantino semplice (Remastered)
+DR13      -1.08 dBFS   -20.17 dBFS      6:50 03-Piano Concerto No. 1 in B-Flat Minor, Op. 23: III. Allegro con fuoco (Remastered)
+--------------------------------------------------------------------------------
+
+Number of tracks:  3
+Official DR value: DR13
+
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           2659 kbps
+Codec:             FLAC
+================================================================================
